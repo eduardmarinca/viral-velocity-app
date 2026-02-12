@@ -4,7 +4,8 @@
   "description": "**Slug:** `/viral-content-pipeline-humanizer-2026` **Meta Description:** Automate your growth with Viral Velocity. The only AI content pipeline with advanced humanization for 2026 SEO & GEO domination. Stop posting like a bot. Start trending.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step'"
   },
   "repository": {
     "type": "git",
