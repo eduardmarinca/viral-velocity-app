@@ -1,0 +1,20 @@
+{
+  "name": "viral-velocity-app",
+  "version": "1.0.0",
+  "description": "**Slug:** `/viral-content-pipeline-humanizer-2026` **Meta Description:** Automate your growth with Viral Velocity. The only AI content pipeline with advanced humanization for 2026 SEO & GEO domination. Stop posting like a bot. Start trending.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardmarinca/viral-velocity-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardmarinca/viral-velocity-app/issues"
+  },
+  "homepage": "https://github.com/eduardmarinca/viral-velocity-app#readme"
+}
